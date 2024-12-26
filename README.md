@@ -1,6 +1,6 @@
 # Hello, World! My name is Kiran Raju - [kiranraju][github] 👋
 
-## 👌 I'm a Student, Badminton Player and Developer
+## 👌 I'm a Badminton Player and Developer
 
 - 😎 I've developed many Web applications, some of them are in live.
 - 🌐 Web applications with JavaScript/Typescript.
