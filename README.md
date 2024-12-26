@@ -13,6 +13,7 @@
 [![Kiran | Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)][stackoverflow]
 
 ### 🧠 Languages and Tools
+![GoLang](https://go.dev/doc/)
 ![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Reactjs](https://img.shields.io/badge/reactjs%20-%23323330.svg?&style=for-the-badge&logo=reactjs&logoColor=%23F7DF1E)
